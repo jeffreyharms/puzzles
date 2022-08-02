@@ -1,0 +1,15 @@
+C:\CodingDojo\C#\fundamentals\puzzles\bin\Debug\net6.0\puzzles.exe
+C:\CodingDojo\C#\fundamentals\puzzles\bin\Debug\net6.0\puzzles.deps.json
+C:\CodingDojo\C#\fundamentals\puzzles\bin\Debug\net6.0\puzzles.runtimeconfig.json
+C:\CodingDojo\C#\fundamentals\puzzles\bin\Debug\net6.0\puzzles.dll
+C:\CodingDojo\C#\fundamentals\puzzles\bin\Debug\net6.0\puzzles.pdb
+C:\CodingDojo\C#\fundamentals\puzzles\obj\Debug\net6.0\puzzles.csproj.AssemblyReference.cache
+C:\CodingDojo\C#\fundamentals\puzzles\obj\Debug\net6.0\puzzles.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodingDojo\C#\fundamentals\puzzles\obj\Debug\net6.0\puzzles.AssemblyInfoInputs.cache
+C:\CodingDojo\C#\fundamentals\puzzles\obj\Debug\net6.0\puzzles.AssemblyInfo.cs
+C:\CodingDojo\C#\fundamentals\puzzles\obj\Debug\net6.0\puzzles.csproj.CoreCompileInputs.cache
+C:\CodingDojo\C#\fundamentals\puzzles\obj\Debug\net6.0\puzzles.dll
+C:\CodingDojo\C#\fundamentals\puzzles\obj\Debug\net6.0\refint\puzzles.dll
+C:\CodingDojo\C#\fundamentals\puzzles\obj\Debug\net6.0\puzzles.pdb
+C:\CodingDojo\C#\fundamentals\puzzles\obj\Debug\net6.0\puzzles.genruntimeconfig.cache
+C:\CodingDojo\C#\fundamentals\puzzles\obj\Debug\net6.0\ref\puzzles.dll
